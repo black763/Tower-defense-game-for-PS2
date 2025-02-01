@@ -19,7 +19,15 @@ Como eu falei anteriomente você pode jogar a versão web de game.
 <details>
 <summary>Dicas</summary>
   
-  + Não deixe seus denfense perto dos Zumbies
+  + Não deixe seus denfense perto dos Zumbies.
   + Não coloque demais denfense não tela se não pode ave quendas de fps.
+
+</details>
+
+<details>
+<summary>Como sumonar os denfenses</summary>
+  
+  + O primeiro denfense você spawn com o cross (X) do controle, você gasta a comprar ele 100 de recusos.
+  + O segundo denfense você spawn com o square (quadrando) do controle, você gasta a comprar ele 160 de recusos.
 
 </details>
