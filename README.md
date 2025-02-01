@@ -12,7 +12,7 @@ Como eu falei anteriomente você pode jogar a versão web de game.
 <summary>Objetivo</summary>
   
   + Não deixe os Zumbies ultrapassares da direita para a esquenda.
-  + Colente moedas para almentar seus recusos.
+  + Colente moedas para almentar seus recursos.
 
 </details>
 
@@ -27,7 +27,14 @@ Como eu falei anteriomente você pode jogar a versão web de game.
 <details>
 <summary>Como Sumonar os Denfenses</summary>
   
-  + O Primeiro denfense você spawn com o cross (X) do controle, você gasta a comprar ele 100 de recusos.
-  + O Segundo denfense você spawn com o square (quadrando) do controle, você gasta a comprar ele 160 de recusos.
+  + O Primeiro denfense você spawn com o cross (X) do controle, você gasta a comprar ele 100 de recursos.
+  + O Segundo denfense você spawn com o square (quadrando) do controle, você gasta a comprar ele 160 de recursos.
+
+</details>
+
+<details>
+<summary>Quantos de Recursos Você Tem</summary>
+  
+  + Você tem de início 330.
 
 </details>
