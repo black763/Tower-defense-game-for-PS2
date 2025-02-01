@@ -25,9 +25,9 @@ Como eu falei anteriomente você pode jogar a versão web de game.
 </details>
 
 <details>
-<summary>Como sumonar os denfenses</summary>
+<summary>Como Sumonar os Denfenses</summary>
   
-  + O primeiro denfense você spawn com o cross (X) do controle, você gasta a comprar ele 100 de recusos.
-  + O segundo denfense você spawn com o square (quadrando) do controle, você gasta a comprar ele 160 de recusos.
+  + O Primeiro denfense você spawn com o cross (X) do controle, você gasta a comprar ele 100 de recusos.
+  + O Segundo denfense você spawn com o square (quadrando) do controle, você gasta a comprar ele 160 de recusos.
 
 </details>
