@@ -7,4 +7,4 @@ Como eu falei anteriomente você pode jogar a versão web de game.
 + Lembrando essa versão é somente para windows, a mobile ainda não está disponivel.
 + [Start Game](https://brseghese.github.io/pp-tower-defense-game) 🎮
 
-<h3 id="inicio">Sobre o Jogo 🎮</h3>
+<h3 id="Sobre">🎮 Sobre o Jogo</h3>
