@@ -40,3 +40,5 @@ Como eu falei anteriomente você pode jogar a versão web de game.
 </details>
 
 <h3 id="preview">🎥 Preview</h3>
+
+<img src="./assets/tower-defense-game.gif" width="600px">
