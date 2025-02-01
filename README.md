@@ -10,6 +10,8 @@ Como eu falei anteriomente você pode jogar a versão web de game.
 <h3 id="Sobre">🎮 Sobre o Jogo</h3>
 <details>
 <summary>objetivo</summary>
+  
   + Não deixe os Zumbies ultrapassares da direita para a esquenda.
   + Colente moedas para almentar seus recusos.
+
 </details>
