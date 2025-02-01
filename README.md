@@ -38,3 +38,5 @@ Como eu falei anteriomente você pode jogar a versão web de game.
   + Você tem de início 330.
 
 </details>
+
+<h3 id="preview">🎥 Preview</h3>
