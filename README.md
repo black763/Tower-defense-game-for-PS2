@@ -46,6 +46,9 @@ Como eu falei anteriomente você pode jogar a versão web de game.
 <h3 id="autor">✒️ Autor é Créditos</h3>
 
 ◽ Criando da engine **Daniel Santos**.
+
 ◽ Criando original em web **Bruno Seghese**.
+
 ◽ Githud do jogo original em web [Github](https://github.com/brseghese/pp-tower-defense-game)
+
 ◽ Desevolvido por **black_233**.
