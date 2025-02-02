@@ -35,7 +35,7 @@ Como eu falei anteriomente você pode jogar a versão web do game.
 <details>
 <summary>Quantos de Recursos Você Tem</summary>
   
-  + Você tem de início 330.
+  + Você tem de início 330 de recursos
 
 </details>
 
