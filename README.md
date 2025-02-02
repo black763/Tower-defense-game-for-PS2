@@ -11,7 +11,7 @@ Como eu falei anteriomente você pode jogar a versão web do game.
 <details>
 <summary>Objetivo</summary>
   
-  + Não deixe os Zumbies ultrapassares da direita para a esquenda.
+  + Não deixe os Zumbies ultrapassarem da direita para a esquenda.
   + Colente moedas para almentar seus recursos.
 
 </details>
