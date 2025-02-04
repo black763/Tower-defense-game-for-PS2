@@ -51,4 +51,4 @@ Como eu falei anteriomente você pode jogar a versão web do game.
 
 ◽ Githud do jogo original em web [Github](https://github.com/brseghese/pp-tower-defense-game)
 
-◽ Desevolvido por **black_233**.
+◽ Desevolvido por **Black_233**/**Guizin**.
